@@ -54,13 +54,16 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+<img width="1489" height="115" alt="image" src="https://github.com/user-attachments/assets/36adf05b-eb7c-478c-a8c6-52745968e4da" />
+
 comm file1 file2
  ## OUTPUT
+<img width="1501" height="341" alt="image" src="https://github.com/user-attachments/assets/c4587026-da36-462a-b761-b85b33ec44f1" />
 
  
 diff file1 file2
 ## OUTPUT
+<img width="1491" height="407" alt="image" src="https://github.com/user-attachments/assets/ceba94be-bcfc-45b9-bcb9-7eb0b8db238b" />
 
 
 #Filters
