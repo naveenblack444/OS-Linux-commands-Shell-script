@@ -43,10 +43,12 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+<img width="1496" height="495" alt="image" src="https://github.com/user-attachments/assets/65ac309f-d576-47fc-81a7-3172720e6398" />
 
 
 cat < file2
 ## OUTPUT
+<img width="1504" height="261" alt="image" src="https://github.com/user-attachments/assets/b662d3ac-a041-4ebe-9d2e-8f3fd603d651" />
 
 
 # Comparing Files
