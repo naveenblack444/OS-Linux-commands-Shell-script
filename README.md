@@ -116,17 +116,20 @@ hello world
 grep Hello newfile 
 ## OUTPUT
 
+<img width="601" height="127" alt="Screenshot 2026-10-24 134817" src="https://github.com/user-attachments/assets/afa2aa4a-1982-44cf-a0c3-1a90d93c126d" />
 
 
 grep hello newfile 
 ## OUTPUT
 
+<img width="660" height="95" alt="Screenshot 2026-10-24 134936" src="https://github.com/user-attachments/assets/cc64a981-d9b8-49e6-9b85-cf2c90442f98" />
 
 
 
 grep -v hello newfile 
 ## OUTPUT
 
+<img width="783" height="97" alt="Screenshot 2026-10-24 135025" src="https://github.com/user-attachments/assets/50ca807a-55a2-41f9-b340-d1b36f73aa9c" />
 
 
 cat newfile | grep -i "hello"
