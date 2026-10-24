@@ -220,23 +220,28 @@ egrep '((W|w)orld$)' newfile
 egrep '[1-9]' newfile 
 ## OUTPUT
 
+<img width="790" height="97" alt="image" src="https://github.com/user-attachments/assets/59c24b9f-71b6-4c42-9f51-6ce7f63f2014" />
 
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
+<img width="947" height="92" alt="image" src="https://github.com/user-attachments/assets/002ff67e-5dfe-4a1f-b134-6f2d6ff76787" />
 
 
 egrep 'Linux.*World' newfile 
 ## OUTPUT
+<img width="787" height="97" alt="image" src="https://github.com/user-attachments/assets/d06a5ff9-9844-40db-9fe3-dac992ddb9ea" />
 
 
 egrep l{2} newfile
 ## OUTPUT
 
+<img width="852" height="125" alt="image" src="https://github.com/user-attachments/assets/27ad9f1d-7440-4bf8-b15a-307b74dfe2ce" />
 
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
+<img width="818" height="161" alt="image" src="https://github.com/user-attachments/assets/cc18eb39-c458-4ba1-a8d4-20d4c4b09b25" />
 
 
 cat > file23
