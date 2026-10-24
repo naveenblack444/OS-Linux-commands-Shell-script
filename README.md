@@ -353,7 +353,7 @@ sed -n '2,4{s/$/*/;p}' file23
 
 
 
-#Sorting File content
+# Sorting File content
 cat > file21
 ```
 1001 | Ram | 10000 | HR
@@ -364,6 +364,7 @@ cat > file21
 ``` 
 sort file21
 ## OUTPUT
+<img width="730" height="212" alt="image" src="https://github.com/user-attachments/assets/34e02e06-df67-43d8-917a-bb1d5acf8cd5" />
 
 
 cat > file22
@@ -377,6 +378,7 @@ cat > file22
 ``` 
 uniq file22
 ## OUTPUT
+<img width="892" height="226" alt="image" src="https://github.com/user-attachments/assets/655a7dcd-0e33-48b1-a4fb-f1c58f56cfa2" />
 
 
 
@@ -384,6 +386,7 @@ uniq file22
 
 cat file23 | tr [:lower:] [:upper:]
  ## OUTPUT
+<img width="908" height="317" alt="image" src="https://github.com/user-attachments/assets/e46f2556-0b55-4c6c-bcd7-7a388562056a" />
 
 cat < urllist.txt
 ```
