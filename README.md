@@ -135,22 +135,26 @@ grep -v hello newfile
 cat newfile | grep -i "hello"
 ## OUTPUT
 
+<img width="807" height="127" alt="image" src="https://github.com/user-attachments/assets/44f8bb40-6303-4b4f-b951-da0f785e73c4" />
 
 
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
 
+<img width="687" height="92" alt="image" src="https://github.com/user-attachments/assets/2144e665-4488-46a9-8ffc-9555709e74ff" />
 
 
 
 grep -R ubuntu /etc
 ## OUTPUT
 
+<img width="1236" height="705" alt="image" src="https://github.com/user-attachments/assets/9b4a3dad-e966-4eb2-bb93-b477073c0698" />
 
 
 grep -w -n world newfile   
 ## OUTPUT
+<img width="843" height="132" alt="image" src="https://github.com/user-attachments/assets/0e3fdf26-45ee-4d53-acb2-1802cf29761d" />
 
 
 cat < newfile 
@@ -175,11 +179,13 @@ Linux is best in this World
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
 
+<img width="820" height="130" alt="image" src="https://github.com/user-attachments/assets/2fd10e5a-22e9-4428-ae1f-a01819c6ba66" />
 
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
 
+<img width="800" height="136" alt="image" src="https://github.com/user-attachments/assets/024db737-12f5-41b1-9e52-81602d30d305" />
 
 
 egrep -w '(H|h)ell[a-z]' newfile 
@@ -191,19 +197,23 @@ egrep -w '(H|h)ell[a-z]' newfile
 egrep '(^hello)' newfile 
 ## OUTPUT
 
+<img width="796" height="102" alt="image" src="https://github.com/user-attachments/assets/a0648c37-c88b-4839-a073-a592fd3941ba" />
 
 
 egrep '(world$)' newfile 
 ## OUTPUT
 
+<img width="675" height="101" alt="image" src="https://github.com/user-attachments/assets/ce78a033-204e-4cdd-a4b7-97528e109b06" />
 
 
 egrep '(World$)' newfile 
 ## OUTPUT
 
+<img width="770" height="155" alt="image" src="https://github.com/user-attachments/assets/13054fc1-caa1-4ed9-b709-39252eef66c3" />
 
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
+<img width="770" height="155" alt="image" src="https://github.com/user-attachments/assets/89429a08-6835-450f-a9f2-4f399c61dbd1" />
 
 
 
